@@ -1,0 +1,134 @@
+result
+"▶  Blood Culture 중간보고  ◀
+
+
+   Gram negative rod
+
+
+▶ CULTURE RESULT ◀
+
+Organism #1 : Leclercia adecarboxylate
+
+ Ampicillin            S  <=0.25
+ Amikacin              S  <=2
+ Aztreonam             S  <=8
+ Ciprofloxacin         S  <=0.5
+ Ceftriaxone           S  <=8
+ Cefazolin             S  <=8
+ Cefepime              S  <=4
+ Cefoxitin             S  <=2
+ Gentamicin            S  <=0.5
+ Imipenem              S  <=4
+ Meropenem             S  
+ Tobramycin            S  <=0.5
+ Ampicillin/sulbactam  S  <=4
+ Trimethoprim/Sulfa    S  <=10
+ Piperacillin/Tazobac  S  <=8"
+"▶ Gram's stain  result ◀
+
+( 4+ ) Gram positive cocci in single/ pairs/ chains. 
+( 4+ ) Gram positive rod. WBC (10-20)   Grade : Group( 5 )
+
+▶ AFB stain Result ◀
+
+( No ) AFB
+
+▶ CULTURE RESULT ◀
+
+Organism #1 : Haemophilus parpinfluenzae
+
+ Ampicillin            S  
+ Aztreonam             S  
+ Chloramphenicol       S  
+ Ceftazidime           S  
+ Ciprofloxacin         S  
+ Cefepime              S  
+ Imipenem              S  
+ Tetracycline          S  
+ Piperacillin/Tazobac  S"
+"▶ culture result ◀    
+organism #1 : escherichia coli    
+amount : 1+     
+esbl                  - neg   
+ampicillin            s <=  2   
+amoxicillin/ca        s <=  2   
+piperacillin/tazobac  s <=  4   
+cefazolin             s <=  4   
+cefoxitin             s <=  4   
+cefotaxime            s <=  1   
+ceftazidime           s <=  1   
+cefepime              s <=  1   
+aztreonam             s <=  1   
+ertapenem             s <=  0.5   
+imipenem              s <=  0.25   
+amikacin              s <=  2   
+gentamicin            s <=  1   
+ciprofloxacin         s <=  0.25   
+tigecycline           s <=  0.5   
+trimethoprim/sulfa    s <=  20  
+-------------------------------  
+organism #2 : klebsiella pneumoniae     
+amount : few     
+esbl                  - neg   
+ampicillin            r >=  32   
+amoxicillin/ca        s <=  2   
+piperacillin/tazobac  s <=  4   
+cefazolin             s <=  4   
+cefoxitin             s <=  4   
+cefotaxime            s <=  1   
+ceftazidime           s <=  1   
+cefepime              s <=  1   
+aztreonam             s <=  1   
+ertapenem             s <=  0.5   
+imipenem              s <=  0.25   
+amikacin              s <=  2   
+gentamicin            s <=  1   
+ciprofloxacin         s <=  0.25   
+tigecycline           s <=  0.5   
+trimethoprim/sulfa    s <=  20  
+-------------------------------  
+organism #3 : staphylococcus aureus      
+amount : 1+     
+cefoxitin screen                 + r   
+penicillin-g                     r >=  0.5   
+oxacillin mic                    r >=  4   
+gentamicin                       s <=  0.5   
+habekacin                        s <=  1   
+ciprofloxacin                    s <=  0.5   
+inducible clindamycin resistant  - neg   
+erythromycin                     s <=  0.25   
+telithromycin                    s <=  0.25   
+clindamycin                      s <=  0.25   
+quinupristin/dalfopristin        s <=  0.25   
+linezolid                        s     2   
+teicoplanin                      s <=  0.5   
+vancomycin                       s     1   
+tetracycline                     s <=  1   
+tigecycline                      s <=  0.12   
+nitrofurantoin                   s <=  16   
+fusidic acid                     s <=  0.5   
+mupirocin                        s <=  2   
+rifampin                         s <=  0.5   
+trimethoprim/sulfa               s <=  10  
+-------------------------------  
+organism #4 : enterococcus avium - (group d)    
+amount : 1+     
+penicillin-g               r       32   
+ampicillin                 r       16   
+ampicillin/sulbactam       r >=    32   
+imipenem                   s <=    1   
+high level gm resistance   s syn-s   
+high level sm resistance   s syn-s   
+ciprofloxacin              s <=    0.5   
+levofloxacin               s       1   
+norfloxacin                s       2   
+erythromycin               r >=    8   
+clindamycin                r >=    8   
+quinupristin/dalfopristin  s       1   
+linezolid                  s       1   
+teicoplanin                s <=    0.5   
+vancomycin                 s <=    0.5   
+tetracycline               r >=    16   
+tigecycline                s <=    0.12   
+nitrofurantoin             s       32   
+trimethoprim/sulfa         s <=    10    "
