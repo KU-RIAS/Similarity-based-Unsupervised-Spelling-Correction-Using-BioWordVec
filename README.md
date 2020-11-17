@@ -4,8 +4,9 @@ This is similarity-based unsupervised spelling correction using [BioWordVec] for
 Please visit the original repo of [BioWordVec] for more information about the pre-trained BioWordVec.  
 
 ## Environments
-	python 3.6
+	python 3
   	gensim 2.3
+	keras
 	pyxDamerauLevenshtein 1.6.1
 	
 ## Pretrained Embedding
