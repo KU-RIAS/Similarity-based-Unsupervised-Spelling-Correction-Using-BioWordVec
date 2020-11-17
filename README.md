@@ -5,6 +5,7 @@ Please visit the original repo of [BioWordVec] (Yijia Zhang, et al.) for more in
 
 ## Environments
 	python 3
+	numpy 1.18
   	pandas 1.1
 	keras 2.4.3
 	gensim 3.8.3
