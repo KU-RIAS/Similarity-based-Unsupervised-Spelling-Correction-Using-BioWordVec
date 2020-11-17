@@ -5,7 +5,6 @@ Please visit the original repo of [BioWordVec] (Yijia Zhang, et al.) for more in
 
 ## Environments
 	python 3
-	re
   	pandas
 	keras
 	gensim 2.3
