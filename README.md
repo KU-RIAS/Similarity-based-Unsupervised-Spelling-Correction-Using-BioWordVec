@@ -1,7 +1,7 @@
 # Similarity-based-Unsupervised-Spelling-Correction-Using-BioWordVec
 
 This is similarity-based unsupervised spelling correction using [BioWordVec] for bacteria culture and antimicrobial susceptibility reports.  
-Please visit the original repo of [BioWordVec] for more information about the pre-trained BioWordVec.  
+Please visit the original repo of [BioWordVec] (Yijia Zhang, et al.) for more information about the pre-trained BioWordVec.  
 
 ## Environments
 	python 3
@@ -19,7 +19,7 @@ https://ftp.ncbi.nlm.nih.gov/pub/lu/Suppl/BioSentVec/BioWordVec_PubMed_MIMICIII_
 
 Example:  
 
-	python Spelling_Correction_BioWordVec.py --data sample.csv
+	python SUSC.py --data sample.csv
 
 Arguments:  
 
