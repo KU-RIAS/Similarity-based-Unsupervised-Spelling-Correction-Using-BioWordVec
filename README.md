@@ -5,8 +5,10 @@ Please visit the original repo of [BioWordVec] for more information about the pr
 
 ## Environments
 	python 3
-  	gensim 2.3
+	re
+  	pandas
 	keras
+	gensim 2.3
 	pyxDamerauLevenshtein 1.6.1
 	
 ## Pretrained Embedding
