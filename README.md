@@ -5,6 +5,8 @@ Please visit the original repo of [BioWordVec] for more information about the pr
 
 ## Environments
 
+
+## Overall Architecture
 ![screensh](./img/architecture.png)
 
 [BioWordVec]: https://github.com/ncbi-nlp/BioWordVec
