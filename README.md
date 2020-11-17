@@ -7,7 +7,9 @@ Please visit the original repo of [BioWordVec] for more information about the pr
 	python 3.6
   	gensim 2.3
 	pyxDamerauLevenshtein 1.6.1
-
+	
+## Pretrained Embedding
+* BioWordVec
 https://ftp.ncbi.nlm.nih.gov/pub/lu/Suppl/BioSentVec/BioWordVec_PubMed_MIMICIII_d200.vec.bin
 
 ## Usage
