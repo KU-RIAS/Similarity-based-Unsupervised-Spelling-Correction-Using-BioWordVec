@@ -19,6 +19,10 @@ class Preprocessing:
         
     def organ_result(self, df):
         
+        # Column Name Transform
+#         df.columns=["id", "date", "code", "inspection_name", "result"]
+#         df.columns=["id", "name", "sex", "age", "date", "code", "inspection_name", "result"]
+        
         # Missing Value Remove
         df = df.dropna()
         
