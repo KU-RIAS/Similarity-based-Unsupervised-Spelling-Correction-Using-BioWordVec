@@ -5,5 +5,6 @@ Please visit the original repo of [BioWordVec] for more information about the pr
 
 ## Environments
 
+![Diagram of the proposed method](https://github.com/KU-RIAS/Similarity-based-Unsupervised-Spelling-Correction-Using-BioWordVec/img/architecture.png)
 
 [BioWordVec]: https://github.com/ncbi-nlp/BioWordVec
