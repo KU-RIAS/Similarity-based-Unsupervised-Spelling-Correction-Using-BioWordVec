@@ -20,14 +20,14 @@ https://ftp.ncbi.nlm.nih.gov/pub/lu/Suppl/BioSentVec/BioWordVec_PubMed_MIMICIII_
 
 Example:  
 
-	python SUSC.py --data sample.csv
+	python SUSC_run.py --data sample.csv
 
 Arguments:  
 
-	--data				Data  
+	--data				Data 
 	--similar_n			most similar words 
 	--fasttext_min_similarity	cosine similarity 
-	--edit_distance_threshold	edit distance  
+	--edit_distance_threshold	edit distance 
 
 
 ## Overall Architecture
