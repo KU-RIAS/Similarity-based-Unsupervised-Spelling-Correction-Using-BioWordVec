@@ -10,6 +10,7 @@ Please visit the original repo of [BioWordVec] (Yijia Zhang, et al.) for more in
 	keras
 	gensim 2.3
 	pyxDamerauLevenshtein 1.6.1
+	symspellpy
 	
 ## Pretrained Embedding
 * BioWordVec  
