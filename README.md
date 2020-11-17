@@ -5,11 +5,11 @@ Please visit the original repo of [BioWordVec] (Yijia Zhang, et al.) for more in
 
 ## Environments
 	python 3
-  	pandas
-	keras
-	gensim 2.3
+  	pandas 1.1
+	keras 2.4.3
+	gensim 3.8.3
 	pyxDamerauLevenshtein 1.6.1
-	symspellpy
+	symspellpy 6.5
 	
 ## Pretrained Embedding
 * BioWordVec  
