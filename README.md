@@ -25,12 +25,21 @@ Example:
 Arguments:  
 
 	--data				Data 
-	--similar_n			most similar words 
-	--fasttext_min_similarity	cosine similarity 
-	--edit_distance_threshold	edit distance 
+	--similar_n			Most similar words 
+	--fasttext_min_similarity	Cosine similarity 
+	--edit_distance_threshold	Edit distance 
 
 
 ## Overall Architecture
 ![screensh](./img/architecture.png)
 
+## Citation
+If you find this work useful for your research, please cite our paper:
+
+	Kim T, Han S, Kang M, Lee S, Kim J, Joo H, Sohn J
+	Similarity-Based Unsupervised Spelling Correction Using BioWordVec: Development and Usability Study of Bacterial Culture and Antimicrobial Susceptibility Reports
+	JMIR Med Inform 2021;9(2):e25530
+	URL: https://medinform.jmir.org/2021/2/e25530
+	DOI: 10.2196/25530
+	
 [BioWordVec]: https://github.com/ncbi-nlp/BioWordVec
